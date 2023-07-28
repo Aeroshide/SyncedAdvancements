@@ -1,0 +1,21 @@
+{
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2023-07-28 17:17:26 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2023-07-28 17:17:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-07-28 17:17:16 +0700"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

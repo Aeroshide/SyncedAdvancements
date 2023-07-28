@@ -1,0 +1,55 @@
+{
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2023-07-28 16:20:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-07-28 16:20:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2023-07-28 16:31:54 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2023-07-28 16:31:54 +0700",
+      "minecraft:spider": "2023-07-28 16:32:02 +0700",
+      "minecraft:creeper": "2023-07-28 16:32:15 +0700",
+      "minecraft:zombie": "2023-07-28 16:32:04 +0700"
+    },
+    "done": false
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2023-07-28 16:20:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2023-07-28 16:31:54 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2023-07-28 16:32:06 +0700",
+      "minecraft:plains": "2023-07-28 16:19:28 +0700"
+    },
+    "done": false
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2023-07-28 16:19:28 +0700"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

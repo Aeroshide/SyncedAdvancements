@@ -1,0 +1,292 @@
+[17:52:01] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.16.5 with Fabric Loader 0.14.21
+[17:52:01] [main/INFO] (FabricLoader) Loading 49 mods:
+	- fabric 0.42.0+1.16
+	- fabric-api-base 0.4.0+3cc0f0907d
+	- fabric-api-lookup-api-v1 1.3.1+3cc0f0907d
+	- fabric-biome-api-v1 3.1.13+3cc0f0907d
+	- fabric-blockrenderlayer-v1 1.1.6+3cc0f0907d
+	- fabric-command-api-v1 1.1.3+3cc0f0907d
+	- fabric-commands-v0 0.2.3+3cc0f0907d
+	- fabric-containers-v0 0.1.12+3cc0f0907d
+	- fabric-content-registries-v0 0.2.5+3cc0f0907d
+	- fabric-crash-report-info-v1 0.1.4+3cc0f0907d
+	- fabric-dimensions-v1 2.0.8+3cc0f0907d
+	- fabric-entity-events-v1 1.2.4+3cc0f0907d
+	- fabric-events-interaction-v0 0.4.5+3cc0f0907d
+	- fabric-events-lifecycle-v0 0.2.2+3cc0f0907d
+	- fabric-game-rule-api-v1 1.0.7+3cc0f0907d
+	- fabric-item-api-v1 1.2.2+3cc0f0907d
+	- fabric-item-groups-v0 0.3.1+3cc0f0907d
+	- fabric-key-binding-api-v1 1.0.5+3cc0f0907d
+	- fabric-keybindings-v0 0.2.2+3cc0f0907d
+	- fabric-lifecycle-events-v1 1.2.2+3cc0f0907d
+	- fabric-loot-tables-v1 1.0.3+3cc0f0907d
+	- fabric-mining-levels-v0 0.1.4+3cc0f0907d
+	- fabric-models-v0 0.3.1+3cc0f0907d
+	- fabric-networking-api-v1 1.0.5+3cc0f0907d
+	- fabric-networking-blockentity-v0 0.2.9+3cc0f0907d
+	- fabric-networking-v0 0.3.3+3cc0f0907d
+	- fabric-object-builder-api-v1 1.9.6+3cc0f0907d
+	- fabric-object-builders-v0 0.7.3+3cc0f0907d
+	- fabric-particles-v1 0.2.5+3cc0f0907d
+	- fabric-registry-sync-v0 0.7.6+3cc0f0907d
+	- fabric-renderer-api-v1 0.4.5+3cc0f0907d
+	- fabric-renderer-indigo 0.4.5+3cc0f0907d
+	- fabric-renderer-registries-v1 2.3.1+3cc0f0907d
+	- fabric-rendering-data-attachment-v1 0.1.6+3cc0f0907d
+	- fabric-rendering-fluids-v1 0.1.15+3cc0f0907d
+	- fabric-rendering-v0 1.1.3+3cc0f0907d
+	- fabric-rendering-v1 1.6.1+3cc0f0907d
+	- fabric-resource-loader-v0 0.4.8+3cc0f0907d
+	- fabric-screen-api-v1 1.0.1+3cc0f0907d
+	- fabric-screen-handler-api-v1 1.1.6+3cc0f0907d
+	- fabric-structure-api-v1 1.1.12+3cc0f0907d
+	- fabric-tag-extensions-v0 1.1.2+3cc0f0907d
+	- fabric-textures-v0 1.0.7+3cc0f0907d
+	- fabric-tool-attribute-api-v1 1.2.8+3cc0f0907d
+	- fabric-transfer-api-v1 1.5.0+3cc0f0907d
+	- fabricloader 0.14.21
+	- java 17
+	- minecraft 1.16.5
+	- syncedadvancements 1.0-SNAPSHOT
+[17:52:01] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/D:/File%20Portal/Actually%20Java/.dep/gradle-8.0.2/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/8d31fb97c3e0cd7c8dad3441851c523bcfae6d8e/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[17:52:02] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[17:52:17] [main/INFO] (Minecraft) Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:52:18] [main/INFO] (Minecraft) Setting user: Player521
+[17:52:19] [main/INFO] (AdvancementSync) Loaded
+[17:52:19] [main/INFO] (Indigo) [Indigo] Registering Indigo renderer!
+[17:52:20] [main/INFO] (Minecraft) Backend library: LWJGL version 3.2.2 build 10
+[17:52:28] [main/INFO] (Minecraft) Narrator library for x64 successfully loaded
+[17:52:28] [main/INFO] (Minecraft) Reloading ResourceManager: Default, Fabric Mods (Fabric Crash Report Info (v1), Fabric Tag Extensions (v0), Fabric Tool Attribute API (v1), Fabric Rendering (v1), Fabric Renderer API (v1), Fabric Key Bindings (v0), Fabric Entity Events (v1), Fabric Events Lifecycle (v0), Fabric Screen Handler API (v1), Fabric Particles (v1), Fabric Object Builder API (v1), Fabric Item API (v1), Fabric Networking (v0), Fabric Object Builders (v0), Fabric API Base, Fabric Loader, Fabric API, Fabric Structure API (v1), Fabric Mining Levels (v0), Fabric Events Interaction (v0), Fabric Transfer API (v1), Fabric Item Groups (v0), Fabric Renderer - Indigo, Fabric Key Binding API (v1), Fabric Screen API (v1), Fabric Rendering Data Attachment (v1), Fabric BlockRenderLayer Registration (v1), Fabric Content Registries (v0), Fabric Biome API (v1), Fabric Dimensions API (v1), Fabric Game Rule API (v1), Fabric Commands (v0), Fabric Renderer Registries (v1), Fabric Networking API (v1), Fabric Loot Tables (v1), Fabric Lifecycle Events (v1), Fabric Models (v0), Fabric Rendering Fluids (v1), Fabric API Lookup API (v1), Fabric Command API (v1), Fabric Resource Loader (v0), Fabric Registry Sync (v0), Fabric Textures (v0), Fabric Networking Block Entity (v0), Fabric Rendering (v0), Fabric Containers (v0))
+[17:52:29] [Realms Notification Availability checker #1/INFO] (Minecraft) Could not authorize you against Realms server: Invalid session id
+[17:52:33] [main/INFO] (Minecraft) OpenAL initialized.
+[17:52:33] [main/INFO] (Minecraft) Sound engine started
+[17:52:34] [main/INFO] (Minecraft) Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[17:52:34] [main/INFO] (Minecraft) Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[17:52:34] [main/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[17:52:34] [main/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[17:52:34] [main/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[17:52:34] [main/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[17:52:34] [main/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[17:52:35] [main/INFO] (Minecraft) Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[17:52:35] [main/INFO] (Minecraft) Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[17:52:35] [main/INFO] (Minecraft) Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[17:52:55] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:52:55] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:52:55] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:52:55] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:52:55] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:52:55] [main/INFO] (Minecraft) Reloading ResourceManager: Default, Fabric Mods (Fabric Tool Attribute API (v1))
+[17:52:56] [main/INFO] (Minecraft) Loaded 7 recipes
+[17:52:56] [main/INFO] (Minecraft) Loaded 927 advancements
+[17:52:56] [main/INFO] (BiomeModificationImpl) Applied 0 biome modifications to 0 of 79 new biomes in 3.215 ms
+[17:52:57] [main/INFO] (Minecraft) Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:52:57] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.16.5
+[17:52:57] [Server thread/INFO] (Minecraft) Generating keypair
+[17:52:58] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
+[17:52:59] [main/INFO] (Minecraft) Preparing spawn area: 0%
+[17:52:59] [main/INFO] (Minecraft) Preparing spawn area: 0%
+[17:52:59] [main/INFO] (Minecraft) Preparing spawn area: 0%
+[17:53:00] [main/INFO] (Minecraft) Preparing spawn area: 67%
+[17:53:00] [main/INFO] (Minecraft) Time elapsed: 1835 ms
+[17:53:01] [Server thread/INFO] (Minecraft) Changing view distance to 9, from 10
+[17:53:02] [Server thread/INFO] (Minecraft) Player521[local:E:4d65e510] logged in with entity id 240 at (-105.16474691816912, 68.90779718977033, -241.24808444793797)
+[17:53:02] [Server thread/INFO] (Minecraft) Player521 joined the game
+[17:53:03] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[17:53:03] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[17:53:03] [main/INFO] (Minecraft) Loaded 24 advancements
+[17:53:04] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[17:53:04] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[17:53:10] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[17:53:10] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[17:53:10] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[17:53:10] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[17:53:16] [Server thread/INFO] (Minecraft) Player521 has made the advancement [Monster Hunter]
+[17:53:16] [main/INFO] (Minecraft) [CHAT] Player521 has made the advancement [Monster Hunter]
+[17:53:16] [main/INFO] (Minecraft) Loaded 41 advancements
+[17:53:23] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[17:53:23] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[17:53:23] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[17:53:23] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[17:53:26] [main/INFO] (Minecraft) Using default channel type
+[17:53:26] [main/INFO] (Minecraft) Started serving on 55306
+[17:53:26] [main/INFO] (Minecraft) [CHAT] Local game hosted on port 55306
+[17:53:32] [User Authenticator #1/INFO] (Minecraft) UUID of player Aeroshide is 62575bd3-e876-4085-9a73-d87317aa148a
+[17:53:32] [Server thread/INFO] (Minecraft) Aeroshide[/192.168.1.12:55307] logged in with entity id 522 at (-106.32703683386643, 68.28271854438606, -235.5208080590853)
+[17:53:32] [Server thread/INFO] (Minecraft) Aeroshide joined the game
+[17:53:32] [main/INFO] (Minecraft) [CHAT] Aeroshide joined the game
+[17:53:32] [Server thread/INFO] (Minecraft) Player521 has completed the challenge [Monsters Hunted]
+[17:53:32] [Server thread/INFO] (Minecraft) Player521 has completed the challenge [Adventuring Time]
+[17:53:32] [main/INFO] (Minecraft) [CHAT] Player521 has completed the challenge [Monsters Hunted]
+[17:53:32] [main/INFO] (Minecraft) [CHAT] Player521 has completed the challenge [Adventuring Time]
+[17:53:32] [main/INFO] (Minecraft) Loaded 41 advancements
+[17:53:41] [Server thread/INFO] (Minecraft) [Aeroshide: Revoked 927 advancements from 2 players]
+[17:53:41] [main/INFO] (Minecraft) [CHAT] [Aeroshide: Revoked 927 advancements from 2 players]
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/magenta_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/blue_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/food/cooked_mutton_from_smoking
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/light_blue_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/light_gray_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/red_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/food/cooked_mutton
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/purple_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/cyan_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/decorations/white_banner
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/orange_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/decorations/painting
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/pink_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/food/cooked_mutton_from_campfire_cooking
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/summon_iron_golem
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/trade
+[17:53:41] [main/WARN] (Minecraft) Told to remove advancement minecraft:adventure/summon_iron_golem but I don't know what that is
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/honey_block_slide
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/two_birds_one_arrow
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/whos_the_pillager_now
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/ol_betsy
+[17:53:41] [main/WARN] (Minecraft) Told to remove advancement minecraft:adventure/two_birds_one_arrow but I don't know what that is
+[17:53:41] [main/WARN] (Minecraft) Told to remove advancement minecraft:adventure/whos_the_pillager_now but I don't know what that is
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/black_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/yellow_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/kill_all_mobs
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/totem_of_undying
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/bullseye
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/sniper_duel
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/shoot_arrow
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/very_very_frightening
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/throw_trident
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/kill_a_mob
+[17:53:41] [main/WARN] (Minecraft) Told to remove advancement minecraft:adventure/throw_trident but I don't know what that is
+[17:53:41] [main/WARN] (Minecraft) Told to remove advancement minecraft:adventure/very_very_frightening but I don't know what that is
+[17:53:41] [main/WARN] (Minecraft) Told to remove advancement minecraft:adventure/shoot_arrow but I don't know what that is
+[17:53:41] [main/WARN] (Minecraft) Told to remove advancement minecraft:adventure/sniper_duel but I don't know what that is
+[17:53:41] [main/WARN] (Minecraft) Told to remove advancement minecraft:adventure/bullseye but I don't know what that is
+[17:53:41] [main/WARN] (Minecraft) Told to remove advancement minecraft:adventure/kill_all_mobs but I don't know what that is
+[17:53:41] [main/WARN] (Minecraft) Told to remove advancement minecraft:adventure/totem_of_undying but I don't know what that is
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/adventuring_time
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/adventuring_time
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/sleep_in_bed
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/adventuring_time
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/sleep_in_bed
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/kill_all_mobs
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/totem_of_undying
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/bullseye
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/sniper_duel
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/shoot_arrow
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/very_very_frightening
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/throw_trident
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/kill_a_mob
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/honey_block_slide
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/summon_iron_golem
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/trade
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/two_birds_one_arrow
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/whos_the_pillager_now
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/ol_betsy
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:adventure/root
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/decorations/white_bed
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/gray_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/decorations/white_carpet
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/lime_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/green_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/brown_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/decorations/shulker_box
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/magenta_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/light_blue_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/food/cooked_mutton_from_campfire_cooking
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/orange_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/purple_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/lime_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/pink_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/decorations/shulker_box
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/gray_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/decorations/painting
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/black_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/light_gray_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/blue_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/red_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/decorations/white_banner
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/green_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/cyan_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/decorations/white_bed
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/yellow_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/food/cooked_mutton
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/decorations/white_carpet
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/building_blocks/brown_wool
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/food/cooked_mutton_from_smoking
+[17:53:41] [main/INFO] (Minecraft) Forgot about advancement minecraft:recipes/root
+[17:53:41] [main/INFO] (Minecraft) Loaded 0 advancements
+[17:53:42] [Server thread/INFO] (Minecraft) Aeroshide lost connection: Disconnected
+[17:53:42] [Server thread/INFO] (Minecraft) Aeroshide left the game
+[17:53:42] [main/INFO] (Minecraft) [CHAT] Aeroshide left the game
+[17:53:53] [Server thread/INFO] (Minecraft) Player521 has made the advancement [Monster Hunter]
+[17:53:53] [main/INFO] (Minecraft) [CHAT] Player521 has made the advancement [Monster Hunter]
+[17:53:53] [main/INFO] (Minecraft) Loaded 17 advancements
+[17:54:04] [Server thread/INFO] (Minecraft) Player521 has made the advancement [Ol' Betsy]
+[17:54:04] [main/INFO] (Minecraft) [CHAT] Player521 has made the advancement [Ol' Betsy]
+[17:54:04] [main/INFO] (Minecraft) Loaded 17 advancements
+[17:54:05] [Server thread/INFO] (Minecraft) Player521 has made the advancement [Take Aim]
+[17:54:05] [main/INFO] (Minecraft) [CHAT] Player521 has made the advancement [Take Aim]
+[17:54:05] [main/INFO] (Minecraft) Loaded 17 advancements
+[17:54:12] [main/INFO] (Minecraft) Loaded 29 advancements
+[17:54:20] [User Authenticator #2/INFO] (Minecraft) UUID of player Aeroshide is 62575bd3-e876-4085-9a73-d87317aa148a
+[17:54:20] [Server thread/INFO] (Minecraft) Aeroshide[/192.168.1.12:55321] logged in with entity id 983 at (-113.16557058322284, 73.15205743759702, -249.88245939211174)
+[17:54:20] [Server thread/INFO] (Minecraft) Aeroshide joined the game
+[17:54:20] [main/INFO] (Minecraft) [CHAT] Aeroshide joined the game
+[17:54:20] [Server thread/INFO] (Minecraft) Aeroshide has made the advancement [Take Aim]
+[17:54:20] [Server thread/INFO] (Minecraft) Aeroshide has made the advancement [Monster Hunter]
+[17:54:20] [Server thread/INFO] (Minecraft) Aeroshide has made the advancement [Ol' Betsy]
+[17:54:20] [main/INFO] (Minecraft) [CHAT] Aeroshide has made the advancement [Take Aim]
+[17:54:20] [main/INFO] (Minecraft) [CHAT] Aeroshide has made the advancement [Monster Hunter]
+[17:54:20] [main/INFO] (Minecraft) [CHAT] Aeroshide has made the advancement [Ol' Betsy]
+[17:54:46] [main/INFO] (Minecraft) Loaded 29 advancements
+[17:55:01] [Server thread/INFO] (Minecraft) Player521 has completed the challenge [A Balanced Diet]
+[17:55:01] [Server thread/INFO] (Minecraft) [Player521: Granted the advancement [A Balanced Diet] to Player521]
+[17:55:01] [main/INFO] (Minecraft) [CHAT] Player521 has completed the challenge [A Balanced Diet]
+[17:55:01] [main/INFO] (Minecraft) [CHAT] Granted the advancement [A Balanced Diet] to Player521
+[17:55:01] [main/INFO] (Minecraft) Loaded 29 advancements
+[17:57:02] [main/INFO] (Minecraft) Loaded 52 advancements
+[17:57:08] [Server thread/INFO] (Minecraft) Player521 has made the advancement [Acquire Hardware]
+[17:57:08] [Server thread/INFO] (Minecraft) Aeroshide has made the advancement [Acquire Hardware]
+[17:57:08] [main/INFO] (Minecraft) [CHAT] Player521 has made the advancement [Acquire Hardware]
+[17:57:08] [main/INFO] (Minecraft) [CHAT] Aeroshide has made the advancement [Acquire Hardware]
+[17:57:09] [main/INFO] (Minecraft) Loaded 86 advancements
+[17:57:12] [main/INFO] (Minecraft) Loaded 87 advancements
+[17:57:15] [main/INFO] (Minecraft) Loaded 87 advancements
+[17:57:17] [main/INFO] (Minecraft) Loaded 93 advancements
+[17:58:35] [main/INFO] (Minecraft) Loaded 93 advancements
+[18:00:12] [Server thread/INFO] (Minecraft) Aeroshide lost connection: Disconnected
+[18:00:12] [Server thread/INFO] (Minecraft) Aeroshide left the game
+[18:00:12] [main/INFO] (Minecraft) [CHAT] Aeroshide left the game
+[18:00:16] [main/INFO] (Minecraft) [CHAT] The nearest minecraft:desert is at [-820, ~, -956] (956 blocks away)
+[18:00:18] [Server thread/INFO] (Minecraft) [Player521: Teleported Player521 to -819.5, 79.27520274124853, -955.5]
+[18:00:18] [main/INFO] (Minecraft) [CHAT] Teleported Player521 to -819.5, 79.27520274124853, -955.5
+[18:00:19] [main/INFO] (Minecraft) Loaded 93 advancements
+[18:00:30] [User Authenticator #3/INFO] (Minecraft) UUID of player Aeroshide is 62575bd3-e876-4085-9a73-d87317aa148a
+[18:00:30] [Server thread/INFO] (Minecraft) Aeroshide[/192.168.1.12:55385] logged in with entity id 3639 at (-113.46624157701471, 73.15205743759702, -250.88572287665139)
+[18:00:30] [Server thread/INFO] (Minecraft) Aeroshide joined the game
+[18:00:30] [main/INFO] (Minecraft) [CHAT] Aeroshide joined the game
+[18:00:30] [Server thread/INFO] (Minecraft) Aeroshide has completed the challenge [A Balanced Diet]
+[18:00:30] [main/INFO] (Minecraft) [CHAT] Aeroshide has completed the challenge [A Balanced Diet]
+[18:00:37] [Server thread/INFO] (Minecraft) Aeroshide lost connection: Disconnected
+[18:00:37] [Server thread/INFO] (Minecraft) Aeroshide left the game
+[18:00:37] [main/INFO] (Minecraft) [CHAT] Aeroshide left the game
+[18:00:41] [User Authenticator #4/INFO] (Minecraft) UUID of player Aeroshide is 62575bd3-e876-4085-9a73-d87317aa148a
+[18:00:41] [Server thread/INFO] (Minecraft) Aeroshide[/192.168.1.12:55388] logged in with entity id 3802 at (-113.46624157701471, 73.15205743759702, -250.88572287665139)
+[18:00:41] [Server thread/INFO] (Minecraft) Aeroshide joined the game
+[18:00:41] [main/INFO] (Minecraft) [CHAT] Aeroshide joined the game
+[18:01:03] [main/INFO] (Minecraft) Loaded 93 advancements
+[18:02:00] [main/INFO] (Minecraft) Stopping!
+[18:02:00] [Server thread/INFO] (Minecraft) Player521 lost connection: Disconnected
+[18:02:00] [Server thread/INFO] (Minecraft) Player521 left the game
+[18:02:00] [Server thread/INFO] (Minecraft) Stopping singleplayer server as player logged out
+[18:02:00] [Server thread/INFO] (Minecraft) Stopping server
+[18:02:00] [Server thread/INFO] (Minecraft) Saving players
+[18:02:00] [Server thread/INFO] (Minecraft) Saving worlds
+[18:02:00] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[18:02:03] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (New World): All chunks are saved
+[18:02:03] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[18:02:03] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:02:03] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[18:02:03] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:02:04] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (New World): All chunks are saved
+[18:02:04] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:02:04] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM1): All chunks are saved
