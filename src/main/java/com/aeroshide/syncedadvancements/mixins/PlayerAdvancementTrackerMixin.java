@@ -2,6 +2,7 @@ package com.aeroshide.syncedadvancements.mixins;
 
 
 import net.minecraft.advancement.Advancement;
+import net.minecraft.advancement.AdvancementEntry;
 import net.minecraft.advancement.AdvancementProgress;
 import net.minecraft.server.PlayerManager;
 import net.minecraft.server.network.ServerPlayerEntity;
@@ -23,7 +24,7 @@ public abstract class PlayerAdvancementTrackerMixin {
     private boolean isGranting = false;
 
     @Inject(method = "grantCriterion", at = @At("HEAD"))
-    private void onAdvancement(Advancement advancement, String criterionName, CallbackInfoReturnable<Boolean> cir) {
+    private void onAdvancement(AdvancementEntry advancement, String criterionName, CallbackInfoReturnable<Boolean> cir) {
         if (!isGranting && advancement != null) {
             isGranting = true;
             PlayerManager players = owner.server.getPlayerManager();
