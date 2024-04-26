@@ -10,6 +10,6 @@ public class SyncedAdvancements implements ModInitializer {
 
     @Override
     public void onInitialize() {
-        LOG.info("Loaded");
+        LOG.info("loaded statement for 1.20.2+");
     }
 }

@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ed1f36b-13d5-4e35-b175-7112843b2160" name="Changes" comment="" />
+    <list default="true" id="8ed1f36b-13d5-4e35-b175-7112843b2160" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/mc-1-20-2/src/main/resources/fabric.mod.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/SyncedAdvancements.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/SyncedAdvancements.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/SyncedAdvancements.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/SyncedAdvancements.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mc-1-20-2/src/main/java/com/aeroshide/syncedadvancements/mc20_2/SyncedAdvancements.java" beforeDir="false" afterPath="$PROJECT_DIR$/mc-1-20-2/src/main/java/com/aeroshide/syncedadvancements/mc20_2/SyncedAdvancements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mc-1-20-2/src/main/java/com/aeroshide/syncedadvancements/mc20_2/mixins/PlayerAdvancementTrackerMixin.java" beforeDir="false" afterPath="$PROJECT_DIR$/mc-1-20-2/src/main/java/com/aeroshide/syncedadvancements/mc20_2/mixins/PlayerAdvancementTrackerMixin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mc-1-20-2/src/main/java/com/aeroshide/syncedadvancements/mc20_2/mixins/PlayerManagerMixin.java" beforeDir="false" afterPath="$PROJECT_DIR$/mc-1-20-2/src/main/java/com/aeroshide/syncedadvancements/mc20_2/mixins/PlayerManagerMixin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mc-1-20-2/src/main/resources/syncedAdv.mixins.json" beforeDir="false" afterPath="$PROJECT_DIR$/mc-1-20-2/src/main/resources/syncedAdvNext.mixins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/aeroshide/syncedadvancements/SyncedAdvancements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aeroshide/syncedadvancements/SyncedAdvancements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/aeroshide/syncedadvancements/mixins/PlayerAdvancementTrackerMixin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aeroshide/syncedadvancements/mixins/PlayerAdvancementTrackerMixin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fabric.mod.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fabric.mod.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +42,9 @@
           <activation />
         </task>
         <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/mc-1-20-2">
           <activation />
         </task>
         <projects_view>
@@ -45,13 +68,25 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="SyncedAdvancements" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="verification" type="c8890929:TasksNode$1" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="SyncedAdvancements" type="f1a62948:ProjectNode" />
-                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+                <item name="mc-1-20-2" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SyncedAdvancements" type="f1a62948:ProjectNode" />
+                <item name="mc-1-20-2" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SyncedAdvancements" type="f1a62948:ProjectNode" />
+                <item name="mc-1-20-2" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -67,25 +102,52 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2TC4qi98a11E0vmW6EdIx8T2SEM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Minecraft Client.executor": "Run",
+    "Application.Minecraft Server.executor": "Run",
+    "Gradle.Build SyncedAdvancements.executor": "Run",
+    "Gradle.SyncedAdvancements [build].executor": "Run",
+    "Gradle.SyncedAdvancements [init].executor": "Run",
+    "Gradle.SyncedAdvancements [jar].executor": "Run",
+    "Gradle.SyncedAdvancements [wrapper].executor": "Run",
+    "Gradle.SyncedAdvancements:mc-1-20-2 [build].executor": "Run",
+    "Gradle.SyncedAdvancements:mc-1-20-2 [jar].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/File Portal/Actually Java/fabric-temple-1.16.1",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/File Portal/Actually Java/SyncedAdvancements/mc-1-20-2/src/main/resources",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Minecraft Client">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\File Portal\Actually Java\SyncedAdvancements\mc-1-20-2\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\File Portal\Actually Java\SyncedAdvancements\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.SyncedAdvancements [build]">
     <configuration name="SyncedAdvancements [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -105,9 +167,10 @@
       <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="SyncedAdvancements [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SyncedAdvancements [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -118,7 +181,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="test" />
+            <option value="jar" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -126,6 +189,29 @@
       <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="SyncedAdvancements [wrapper]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="wrapper" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
     <configuration name="SyncedAdvancements build" type="GradleRunConfiguration" factoryName="Gradle">
@@ -147,14 +233,69 @@
       <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="SyncedAdvancements:mc-1-20-2 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/mc-1-20-2" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="SyncedAdvancements:mc-1-20-2 [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/mc-1-20-2" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.SyncedAdvancements [build]" />
-        <item itemvalue="Gradle.SyncedAdvancements [test]" />
+        <item itemvalue="Gradle.SyncedAdvancements:mc-1-20-2 [build]" />
+        <item itemvalue="Gradle.SyncedAdvancements:mc-1-20-2 [jar]" />
+        <item itemvalue="Gradle.SyncedAdvancements [jar]" />
+        <item itemvalue="Gradle.SyncedAdvancements [wrapper]" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-249ae16d76d6-98297cd8" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
