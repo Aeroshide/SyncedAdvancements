@@ -4,26 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ed1f36b-13d5-4e35-b175-7112843b2160" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mc-1-20-2/src/main/resources/fabric.mod.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/SyncedAdvancements.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/SyncedAdvancements.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/SyncedAdvancements.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/SyncedAdvancements.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Client.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server.xml" afterDir="false" />
+    <list default="true" id="8ed1f36b-13d5-4e35-b175-7112843b2160" name="Changes" comment="kontoljuna cement (idk what to say)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mc-1-20-2/src/main/java/com/aeroshide/syncedadvancements/mc20_2/SyncedAdvancements.java" beforeDir="false" afterPath="$PROJECT_DIR$/mc-1-20-2/src/main/java/com/aeroshide/syncedadvancements/mc20_2/SyncedAdvancements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mc-1-20-2/src/main/java/com/aeroshide/syncedadvancements/mc20_2/mixins/PlayerAdvancementTrackerMixin.java" beforeDir="false" afterPath="$PROJECT_DIR$/mc-1-20-2/src/main/java/com/aeroshide/syncedadvancements/mc20_2/mixins/PlayerAdvancementTrackerMixin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mc-1-20-2/src/main/java/com/aeroshide/syncedadvancements/mc20_2/mixins/PlayerManagerMixin.java" beforeDir="false" afterPath="$PROJECT_DIR$/mc-1-20-2/src/main/java/com/aeroshide/syncedadvancements/mc20_2/mixins/PlayerManagerMixin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mc-1-20-2/src/main/resources/syncedAdv.mixins.json" beforeDir="false" afterPath="$PROJECT_DIR$/mc-1-20-2/src/main/resources/syncedAdvNext.mixins.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/aeroshide/syncedadvancements/SyncedAdvancements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aeroshide/syncedadvancements/SyncedAdvancements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/aeroshide/syncedadvancements/mixins/PlayerAdvancementTrackerMixin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aeroshide/syncedadvancements/mixins/PlayerAdvancementTrackerMixin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/fabric.mod.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fabric.mod.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/syncedadvancements/icon.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,6 +128,7 @@
       <recent name="F:\File Portal\Actually Java\SyncedAdvancements\mc-1-20-2\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\File Portal\Actually Java\SyncedAdvancements\src\main\resources\assets\syncedadvancements" />
       <recent name="F:\File Portal\Actually Java\SyncedAdvancements\src\main\resources" />
     </key>
   </component>
@@ -306,6 +291,28 @@
       <option name="presentableId" value="Default" />
       <updated>1690533920986</updated>
     </task>
+    <task id="LOCAL-00001" summary="BRO 1.20.2 WASNT ACTUALLY WORKING BEFORE IM GONNA KILL MYSELF">
+      <option name="closed" value="true" />
+      <created>1714172418932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714172418932</updated>
+    </task>
+    <task id="LOCAL-00002" summary="kontoljuna cement (idk what to say)">
+      <option name="closed" value="true" />
+      <created>1714172480208</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714172480208</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BRO 1.20.2 WASNT ACTUALLY WORKING BEFORE IM GONNA KILL MYSELF" />
+    <MESSAGE value="kontoljuna cement (idk what to say)" />
+    <option name="LAST_COMMIT_MESSAGE" value="kontoljuna cement (idk what to say)" />
   </component>
 </project>

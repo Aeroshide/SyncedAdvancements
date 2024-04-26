@@ -11,7 +11,7 @@
     "repo": "https://github.com/Aeroshide/SyncedAdvancements"
   },
   "license": "Apache-2.0",
-  "icon": "icon.png",
+  "icon": "assets/syncedadvancements/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
