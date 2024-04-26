@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "syncedadvancements-next",
+  "version": "${version}",
+  "name": "SyncedAdvancements 1.20.2+",
+  "description": "Version-specific code for Minecraft 1.20.2+",
+  "authors": [
+    "Aeroshide"
+  ],
+  "contact": {
+    "repo": "https://github.com/Aeroshide/SyncedAdvancements"
+  },
+  "license": "Apache-2.0",
+  "icon": "assets/syncedadvancements/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.aeroshide.syncedadvancements.mc20_2.SyncedAdvancements"
+    ]
+  },
+  "mixins": [
+    "syncedAdvNext.mixins.json"
+  ],
+  "depends": {
+    "minecraft": ">=1.20.2-"
+  }
+}

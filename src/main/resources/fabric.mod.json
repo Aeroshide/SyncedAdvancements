@@ -3,7 +3,7 @@
   "id": "syncedadvancements",
   "version": "${version}",
   "name": "SyncedAdvancements",
-  "description": "",
+  "description": "Fabric mod that allows players on a server to share their advancements with each other",
   "authors": [
     "Aeroshide"
   ],
@@ -11,7 +11,7 @@
     "repo": "https://github.com/Aeroshide/SyncedAdvancements"
   },
   "license": "Apache-2.0",
-  "icon": "assets/syncedadvancements/icon.png",
+  "icon": "icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
