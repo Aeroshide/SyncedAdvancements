@@ -1,13 +1,9 @@
 package com.aeroshide.syncedadvancements.mc20_2.mixins;
 
 
-import com.aeroshide.syncedadvancements.mc20_2.SyncedAdvancements;
-import net.minecraft.advancement.Advancement;
 import net.minecraft.advancement.AdvancementEntry;
-import net.minecraft.advancement.AdvancementProgress;
 import net.minecraft.server.PlayerManager;
 import net.minecraft.server.network.ServerPlayerEntity;
-import net.minecraft.server.network.ServerPlayerInteractionManager;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Shadow;
 import org.spongepowered.asm.mixin.Unique;
@@ -26,7 +22,6 @@ public abstract class PlayerAdvancementTrackerMixin {
 
     @Inject(method = "grantCriterion", at = @At("HEAD"))
     private void onAdvancement(AdvancementEntry advancement, String criterionName, CallbackInfoReturnable<Boolean> cir) {
-        SyncedAdvancements.LOG.info("1.20.4+ calling!");
         if (!isGranting && advancement != null) {
             isGranting = true;
             PlayerManager players = owner.server.getPlayerManager();

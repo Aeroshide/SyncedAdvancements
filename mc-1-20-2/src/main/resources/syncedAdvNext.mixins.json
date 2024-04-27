@@ -1,4 +1,5 @@
 {
+  "parent": "syncedAdv.mixins.json",
   "required": true,
   "minVersion": "0.8",
   "package": "com.aeroshide.syncedadvancements.mc20_2.mixins",

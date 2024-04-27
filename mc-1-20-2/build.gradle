@@ -1,7 +1,4 @@
-plugins {
-    id 'fabric-loom' version '1.2-SNAPSHOT'
-    id 'maven-publish'
-}
+
 
 repositories {
     // Add repositories to retrieve artifacts from in here.
@@ -12,10 +9,5 @@ repositories {
 }
 
 dependencies {
-    // To change the versions see the gradle.properties file
-    minecraft "com.mojang:minecraft:1.20.2"
-    mappings "net.fabricmc:yarn:1.20.2+build.1:v2"
-    modImplementation "net.fabricmc:fabric-loader:0.14.21"
 
-        // Fabric API. This is technically optional, but you probably want it anyway.
     }

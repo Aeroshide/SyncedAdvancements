@@ -25,7 +25,6 @@ public abstract class PlayerAdvancementTrackerMixin {
 
     @Inject(method = "grantCriterion", at = @At("HEAD"), require = 0)
     private void onAdvancement(Advancement advancement, String criterionName, CallbackInfoReturnable<Boolean> cir) {
-        SyncedAdvancements.LOG.info("1.20.1- calling!");
         if (!isGranting && advancement != null) {
             isGranting = true;
             PlayerManager players = owner.server.getPlayerManager();

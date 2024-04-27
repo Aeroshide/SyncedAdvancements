@@ -6,7 +6,7 @@ import org.apache.logging.log4j.Logger;
 import net.fabricmc.api.ModInitializer;
 
 public class SyncedAdvancements implements ModInitializer {
-    public static final Logger LOG = LogManager.getLogger("AdvancementSync");
+    public static final Logger LOG = LogManager.getLogger("SyncedAdvancements");
 
     @Override
     public void onInitialize() {
