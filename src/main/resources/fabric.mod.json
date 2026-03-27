@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "id": "syncedadvancements",
   "version": "${version}",
+  "accessWidener": "syncedAdv.accesswidener",
   "name": "SyncedAdvancements",
   "description": "Fabric mod that allows players on a server to share their advancements with each other",
   "authors": [
@@ -23,6 +24,6 @@
   ],
   "depends": {
     "fabricloader": ">=${loader_version}",
-    "minecraft": ">=1.15"
+    "minecraft": ">=${minecraft_version}"
   }
 }

@@ -4,8 +4,8 @@
   "package": "com.aeroshide.syncedadvancements.mixins",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "PlayerAdvancementTrackerMixin",
-    "PlayerManagerMixin"
+    "PlayerAdvancementsMixin",
+    "PlayerListMixin"
   ],
   "injectors": {
     "defaultRequire": 1
